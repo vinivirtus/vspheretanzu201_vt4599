@@ -4,14 +4,8 @@ date: 2020-10-12T18:34:25-07:00
 weight: 1020
 ---
 
-We recommend taking the [Introduction to VMware Tanzu
-Portfolio](https://www.modernapps.ninja/courses/course-v1:modernapps+COU-TP6539+Perpetual/course/) course
+Please complete the [vSphere with Tanzu 101](https://modernapps.ninja/course/vspheretanzu101_vt7301/) course
 prior to taking the vSphere with Tanzu 101 course. 
-
-We also recommend completing the [ModernApps Ninja 101
-course](https://www.modernapps.ninja/courses/course-v1:modernapps+COU-MN7417+Perpetual/course/) to
-learn about the community resources available to support this course and
-maximize your learning experience.
 
 This course assumes familiarity with Kubernetes and Cloud Native
 Technologies. If you are not familiar with these technologies, we

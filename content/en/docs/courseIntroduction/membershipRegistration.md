@@ -42,7 +42,7 @@ The following link will direct your browser to a github web-based document edito
 
 Please right click the following link and select the option to open it in a new browser tab, so you can keep this instruction page open in the current tab to guide you through the process. 
 
-[Right Click Here and select the option to open link in new tab](https://github.com/ModernAppsNinja/vSphereTanzu301_vt4163/tree/main/static/admin/userdata/registered_members) and click on `Add File > Create new file`
+[Right Click Here and select the option to open link in new tab](https://github.com/ModernAppsNinja/vspheretanzu201_vt4599/tree/main/static/admin/userdata/registered_members) and click on `Add File > Create new file`
 
 #### Step 2 - Name your file
 
