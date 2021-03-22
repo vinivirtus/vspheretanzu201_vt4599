@@ -40,7 +40,7 @@ It is important that you follow the instructions carefully to ensure the automat
 
 Please right click the following link to the test answer response sheet and select to open it in a new tab. The questions for this test will be provided below in this page, but you will need to enter your responses in the answer response sheet. 
 
-[test3 Answer Response Sheet](https://github.com/modernappsninja/vspheretanzu201_vt4599/edit/main/static/admin/userdata/tests/test3.yml)  
+[test2 Answer Response Sheet](https://github.com/modernappsninja/vspheretanzu201_vt4599/edit/main/static/admin/userdata/tests/test2.yml)  
 
 ### Section 2 Test Questions
 

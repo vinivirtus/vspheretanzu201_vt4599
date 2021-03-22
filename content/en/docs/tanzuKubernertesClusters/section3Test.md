@@ -1,7 +1,7 @@
 ---
-title: "Section 2 Test"
+title: "Section 3 Test"
 date: 2020-10-09T03:15:26-07:00
-weight: 3090
+weight: 4090
 ---
 
 All Modernapps Ninja learning content is publicly accessible and available openly, however a free membership is required to take tests and recieve a certificate of completion for the course. You must first [join the community](https://modernapps.ninja/about/membership/) and register for this course per the instructions in the course introduction section before attempting to submit a test.
@@ -11,8 +11,8 @@ Ninja tests use devops tools and processes so the testing system itself provides
 - [Instructions](#instructions)
   - [Full Test Instructions](#full-test-instructions)
   - [Test Answer Response Sheet](#test-answer-response-sheet)
-  - [Section 2 Test Questions](#section-2-test-questions)
-      - [This concludes the section 2 test. Please use the navigation bar to proceed to the next page.](#this-concludes-the-section-2-test-please-use-the-navigation-bar-to-proceed-to-the-next-page)
+  - [Section 3 Test Questions](#section-3-test-questions)
+      - [This concludes the section 3 test. Please use the navigation bar to proceed to the next page.](#this-concludes-the-section-3-test-please-use-the-navigation-bar-to-proceed-to-the-next-page)
 
 ## Instructions
 
@@ -42,9 +42,26 @@ Please right click the following link to the test answer response sheet and sele
 
 [test3 Answer Response Sheet](https://github.com/modernappsninja/vspheretanzu201_vt4599/edit/main/static/admin/userdata/tests/test3.yml)  
 
-### Section 2 Test Questions
+### Section 3 Test Questions
 
-#### **Question1:** vSphere with Tanzu Services include:  <!-- omit in toc -->
+#### **Question1:** True or False: Cloud Native Storage is available natively in vSphere 7 and it allows higher levels of visibility for Kubernetes Persistent Volumes for the IT Administrators.  <!-- omit in toc -->
+
+**On your answer sheet, enter 'a' for true, and 'b' for false.**
+
+```yml
+Answers:
+  a: True
+  b: False
+```
+
+>>Cloud Native Storage is available natively in vSphere 7 and it allows higher levels of visibility for Kubernetes Persistent Volumes for the IT Administrators.||True or False <<
+
+(x) True
+( ) False
+
+
+
+#### **Question2:** vSphere with Tanzu Services include:  <!-- omit in toc -->
 
 **Please select 5 choices:**
 
@@ -59,4 +76,19 @@ Answers:
   g: vSphere Pod Service
 ```
 
-##### This concludes the section 2 test. Please use the navigation bar to proceed to the next page.
+#### **Question3:** vSphere with Tanzu Services include:  <!-- omit in toc -->
+
+**Please select 5 choices:**
+
+```yml
+Answers:
+  a: Registry Service
+  b: Load Balancer Service
+  c: Storage Service
+  d: Network Service
+  e: Tanzu Kubernetes Grid Service
+  f: Cluster Service
+  g: vSphere Pod Service
+```
+
+##### This concludes the section 3 test. Please use the navigation bar to proceed to the next page.
