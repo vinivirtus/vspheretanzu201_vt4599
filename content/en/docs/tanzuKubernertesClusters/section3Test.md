@@ -70,7 +70,7 @@ Answers:
 
 #### **Question3:** Which of the following Kubernetes object types is required to support stateful applications?  <!-- omit in toc -->
 
-**Please select 5 choices:**
+**Please select the best option:**
 
 ```yml
 Answers:
@@ -79,13 +79,5 @@ Answers:
   c: ConfigMap
   d: Service
 ```
-
->>Which of the following Kubernetes object types is required to support stateful applications? <<
-
-( ) StatefulSet
-(x) PersistentVolume
-( ) ConfigMap
-( ) Service
-
 
 ##### This concludes the section 3 test. Please use the navigation bar to proceed to the next page.

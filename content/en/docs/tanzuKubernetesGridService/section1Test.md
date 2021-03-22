@@ -44,9 +44,7 @@ Please right click the following link to the test answer response sheet and sele
 
 ### Section 1 Test Questions
 
-#### **Question1:** Industry Challenges with Cloud Infrastructure include ... <!-- omit in toc -->
-
-**Please select the most correct statement from the options below :**
+#### **Question1:** Please select the most correct statement from the options below:  <!-- omit in toc -->
 
 ```yml
 Answers:
