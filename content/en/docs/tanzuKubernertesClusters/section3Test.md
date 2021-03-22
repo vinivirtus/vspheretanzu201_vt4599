@@ -54,41 +54,38 @@ Answers:
   b: False
 ```
 
->>Cloud Native Storage is available natively in vSphere 7 and it allows higher levels of visibility for Kubernetes Persistent Volumes for the IT Administrators.||True or False <<
+#### **Question2:** What information is provided by the command 'kubectl get services'?  <!-- omit in toc -->
 
-(x) True
-( ) False
+**Please select 3 choices:**
 
+```yml
+Answers:
+  a: Cluster-IP 
+  b: External-IP 
+  c: Volume 
+  d: Capacity 
+  e: User
+  f: Age
+```
 
-
-#### **Question2:** vSphere with Tanzu Services include:  <!-- omit in toc -->
+#### **Question3:** Which of the following Kubernetes object types is required to support stateful applications?  <!-- omit in toc -->
 
 **Please select 5 choices:**
 
 ```yml
 Answers:
-  a: Registry Service
-  b: Load Balancer Service
-  c: Storage Service
-  d: Network Service
-  e: Tanzu Kubernetes Grid Service
-  f: Cluster Service
-  g: vSphere Pod Service
+  a: StatefulSet
+  b: PersistentVolume
+  c: ConfigMap
+  d: Service
 ```
 
-#### **Question3:** vSphere with Tanzu Services include:  <!-- omit in toc -->
+>>Which of the following Kubernetes object types is required to support stateful applications? <<
 
-**Please select 5 choices:**
+( ) StatefulSet
+(x) PersistentVolume
+( ) ConfigMap
+( ) Service
 
-```yml
-Answers:
-  a: Registry Service
-  b: Load Balancer Service
-  c: Storage Service
-  d: Network Service
-  e: Tanzu Kubernetes Grid Service
-  f: Cluster Service
-  g: vSphere Pod Service
-```
 
 ##### This concludes the section 3 test. Please use the navigation bar to proceed to the next page.
