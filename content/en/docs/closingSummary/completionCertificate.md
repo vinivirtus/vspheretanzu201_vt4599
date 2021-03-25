@@ -5,7 +5,11 @@ weight: 6015
 ---
 
 If you have completed all tests in the course and recieved over 70% correct responses, you can make an automated request to recieve a certificate of completion for this course. 
-
+  
+    
+{{< youtube ywLPw0QdU08 >}}
+  
+    
 To request your certificate of completion:
 1. In a seperate browser tab navigate to: https://github.com/ModernAppsNinja/vspheretanzu201_vt4599/tree/main/static/admin/userdata/certs_awarded
 2. Click on the `Add file` button to add a new file
