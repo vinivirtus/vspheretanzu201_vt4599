@@ -20,7 +20,7 @@
 &lt;li>&lt;a href="#test-answer-response-sheet">Test Answer Response Sheet&lt;/a>&lt;/li>
 &lt;li>&lt;a href="#section-3-test-questions">Section 3 Test Questions&lt;/a>
 &lt;ul>
-&lt;li>&lt;a href="#this-concludes-the-section-3-test-please-use-the-navigation-bar-to-proceed-to-the-next-page">This concludes the section 3 test. Please use the navigation bar to proceed to the next page.&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#this-concludes-the-section-3-test-please-click-here-to-proceed-to-the-next-page">This concludes the section 3 test. Please click here to proceed to the next page.&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;/li>
 &lt;/ul>
@@ -65,4 +65,4 @@
 &lt;/span>&lt;span style="color:#f8f8f8;text-decoration:underline"> &lt;/span>&lt;span style="color:#204a87;font-weight:bold">b&lt;/span>&lt;span style="color:#000;font-weight:bold">:&lt;/span>&lt;span style="color:#f8f8f8;text-decoration:underline"> &lt;/span>&lt;span style="color:#000">PersistentVolume&lt;/span>&lt;span style="color:#f8f8f8;text-decoration:underline">
 &lt;/span>&lt;span style="color:#f8f8f8;text-decoration:underline"> &lt;/span>&lt;span style="color:#204a87;font-weight:bold">c&lt;/span>&lt;span style="color:#000;font-weight:bold">:&lt;/span>&lt;span style="color:#f8f8f8;text-decoration:underline"> &lt;/span>&lt;span style="color:#000">ConfigMap&lt;/span>&lt;span style="color:#f8f8f8;text-decoration:underline">
 &lt;/span>&lt;span style="color:#f8f8f8;text-decoration:underline"> &lt;/span>&lt;span style="color:#204a87;font-weight:bold">d&lt;/span>&lt;span style="color:#000;font-weight:bold">:&lt;/span>&lt;span style="color:#f8f8f8;text-decoration:underline"> &lt;/span>&lt;span style="color:#000">Service&lt;/span>&lt;span style="color:#f8f8f8;text-decoration:underline">
-&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;h5 id="this-concludes-the-section-3-test-please-use-the-navigation-bar-to-proceed-to-the-next-page">This concludes the section 3 test. Please use the navigation bar to proceed to the next page.&lt;/h5></description></item></channel></rss>
+&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;h5 id="this-concludes-the-section-3-test-please-click-here-to-proceed-to-the-next-pagevspheretanzu201_vt4599docsclosingsummary">This concludes the section 3 test. Please &lt;a href="https://modernappsninja.github.io/vspheretanzu201_vt4599/vspheretanzu201_vt4599/docs/closingsummary/">click here to proceed to the next page.&lt;/a>&lt;/h5></description></item></channel></rss>
