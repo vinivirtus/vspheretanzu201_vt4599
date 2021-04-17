@@ -28,11 +28,3 @@ draft: false
 -   [Dissecting a Tanzu Kubernetes Cluster Spec with the TKG Service for
     vSphere](https://tanzu.vmware.com/content/blog/dissecting-a-tanzu-kubernetes-cluster-spec-with-the-tkg-service-for-vsphere) by
     Kenny Coleman
-
-**Web:** <https://tanzu.vmware.com>
-
-**Blog:** <https://tanzu.vmware.com/blog>
-
-**Twitter:** \@vmwaretanzu
-
-**Email:** asktanzu\@vmware.com
