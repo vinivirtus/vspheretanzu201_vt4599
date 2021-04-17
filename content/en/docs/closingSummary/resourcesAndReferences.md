@@ -7,7 +7,7 @@ draft: false
 **Links to additional materials:**
 
 -   For more information on vSphere with Tanzu check out the [vSphere
-    product](https://www.vmware.com/products/vsphere.html) page.
+    product](https://www.vmware.com/products/vsphere.html) page and the [vSphere with Tanzu Techzone](https://core.vmware.com/tanzu)
 -   [vSphere with
     Tanzu](https://blogs.vmware.com/vsphere/2020/09/announcing-vsphere-with-tanzu.html) by
     Kit Colbert
