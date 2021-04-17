@@ -16,9 +16,6 @@ draft: false
     Sheldon D\'Paiva 
 -   ebook: [Deliver Developer-Ready Infrastructure Using vSphere with
     Tanzu](https://www.vmware.com/learn/648341_REG.html)
--   [KubeAcademy](https://kube.academy/) courses are composed of a
-    series of bite-size video lessons - terrific resource for learning
-    about containers, Kubernetes, and Cloud Native Concepts.
 -   [Scaling a Tanzu
     Kubernetes](https://tanzu.vmware.com/content/blog/simply-scaling-a-tanzu-kubernetes-cluster-with-the-tkg-service-for-vsphere) Cluster
     by Kenny Coleman
@@ -28,3 +25,6 @@ draft: false
 -   [Dissecting a Tanzu Kubernetes Cluster Spec with the TKG Service for
     vSphere](https://tanzu.vmware.com/content/blog/dissecting-a-tanzu-kubernetes-cluster-spec-with-the-tkg-service-for-vsphere) by
     Kenny Coleman
+-   [KubeAcademy](https://kube.academy/) courses are composed of a
+    series of bite-size video lessons - terrific resource for learning
+    about containers, Kubernetes, and Cloud Native Concepts.
