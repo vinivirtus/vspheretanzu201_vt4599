@@ -12,7 +12,7 @@ Ninja tests use devops tools and processes so the testing system itself provides
   - [Full Test Instructions](#full-test-instructions)
   - [Test Answer Response Sheet](#test-answer-response-sheet)
   - [Section 1 Test Questions](#section-1-test-questions)
-      - [This concludes the section 1 test. Please use the navigation bar to proceed to the next page.](#this-concludes-the-section-1-test-please-use-the-navigation-bar-to-proceed-to-the-next-page)
+      - [This concludes the section 1 test. Please click here to proceed to the next section.](#this-concludes-the-section-1-test-please-click-here-to-proceed-to-the-next-section)
 
 {{< youtube J_nV5YPypqs >}}
 
@@ -54,4 +54,4 @@ Answers:
   b: TKG Service is embedded in vSphere 7 with Tanzu
 ```
 
-##### This concludes the section 1 test. Please use the navigation bar to proceed to the next page.
+##### This concludes the section 1 test. Please [click here to proceed to the next section](vspheretanzu201_vt4599/docs/managingvspherewithtanzu/).

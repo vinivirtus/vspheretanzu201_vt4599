@@ -12,7 +12,7 @@ Ninja tests use devops tools and processes so the testing system itself provides
   - [Full Test Instructions](#full-test-instructions)
   - [Test Answer Response Sheet](#test-answer-response-sheet)
   - [Section 2 Test Questions](#section-2-test-questions)
-      - [This concludes the section 2 test. Please use the navigation bar to proceed to the next page.](#this-concludes-the-section-2-test-please-use-the-navigation-bar-to-proceed-to-the-next-page)
+      - [This concludes the section 2 test. Please click here to proceed to the next page.](#this-concludes-the-section-2-test-please-click-here-to-proceed-to-the-next-page)
 
 {{< youtube J_nV5YPypqs >}}
 
@@ -61,4 +61,4 @@ Answers:
   g: vSphere Pod Service
 ```
 
-##### This concludes the section 2 test. Please use the navigation bar to proceed to the next page.
+##### This concludes the section 2 test. Please [click here to proceed to the next page.](/vspheretanzu201_vt4599/docs/tanzukubernertesclusters/)
