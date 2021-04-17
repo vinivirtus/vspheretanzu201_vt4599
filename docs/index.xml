@@ -342,11 +342,7 @@ Kenny Coleman&lt;/li>
 &lt;li>&lt;a href="https://tanzu.vmware.com/content/blog/dissecting-a-tanzu-kubernetes-cluster-spec-with-the-tkg-service-for-vsphere">Dissecting a Tanzu Kubernetes Cluster Spec with the TKG Service for
 vSphere&lt;/a> by
 Kenny Coleman&lt;/li>
-&lt;/ul>
-&lt;p>&lt;strong>Web:&lt;/strong> &lt;a href="https://tanzu.vmware.com">https://tanzu.vmware.com&lt;/a>&lt;/p>
-&lt;p>&lt;strong>Blog:&lt;/strong> &lt;a href="https://tanzu.vmware.com/blog">https://tanzu.vmware.com/blog&lt;/a>&lt;/p>
-&lt;p>&lt;strong>Twitter:&lt;/strong> @vmwaretanzu&lt;/p>
-&lt;p>&lt;strong>Email:&lt;/strong> asktanzu@vmware.com&lt;/p></description></item><item><title>Docs: Course Complete</title><link>https://modernappsninja.github.io/vspheretanzu201_vt4599/docs/closingsummary/coursecomplete/</link><pubDate>Mon, 12 Oct 2020 20:20:53 -0700</pubDate><guid>https://modernappsninja.github.io/vspheretanzu201_vt4599/docs/closingsummary/coursecomplete/</guid><description>
+&lt;/ul></description></item><item><title>Docs: Course Complete</title><link>https://modernappsninja.github.io/vspheretanzu201_vt4599/docs/closingsummary/coursecomplete/</link><pubDate>Mon, 12 Oct 2020 20:20:53 -0700</pubDate><guid>https://modernappsninja.github.io/vspheretanzu201_vt4599/docs/closingsummary/coursecomplete/</guid><description>
 &lt;p>Thank you for completing the course!&lt;/p></description></item><item><title>Docs: How to submit tests</title><link>https://modernappsninja.github.io/vspheretanzu201_vt4599/docs/reference/testinstructions/</link><pubDate>Fri, 09 Oct 2020 03:15:26 -0700</pubDate><guid>https://modernappsninja.github.io/vspheretanzu201_vt4599/docs/reference/testinstructions/</guid><description>
 &lt;p>All Modernapps Ninja learning content is publicly accessible and available openly, however a free membership is required to take tests and recieve a certificate of completion for the course. You must first &lt;a href="https://modernapps.ninja/about/membership/">join the community&lt;/a> and register for this course per the insructions in the course introduction section before attempting to submit a test.&lt;/p>
 &lt;p>Ninja tests use devops tools and processes so the testing system itself is educational and provides both experience and validation of foundational devops skills.&lt;/p>
