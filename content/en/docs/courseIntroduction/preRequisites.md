@@ -5,7 +5,7 @@ weight: 1020
 ---
 
 Please complete the [vSphere with Tanzu 101](https://modernapps.ninja/course/vspheretanzu101_vt7301/) course
-prior to taking the vSphere with Tanzu 101 course. 
+prior to taking the vSphere with Tanzu 201 course. 
 
 This course assumes familiarity with Kubernetes and Cloud Native
 Technologies. If you are not familiar with these technologies, we
